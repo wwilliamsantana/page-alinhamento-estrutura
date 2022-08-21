@@ -64,6 +64,7 @@ a{
 }
 
 #content-main #main span{
+  font-family: 'Caveat', cursive;
   font-size: 0.6em;
 }
 
@@ -111,7 +112,6 @@ h2{
 
 /* Projects */
 
-
 #content-projects #main{
   display: flex;
   justify-content: center;
@@ -150,13 +150,8 @@ ul{
 
 /* Baseboard */
 
-
 #baseboard{
-
 text-align: center;
 padding: 20px;
 background-color: rgba(214,214,214,0.8);
-
-
-
 }
